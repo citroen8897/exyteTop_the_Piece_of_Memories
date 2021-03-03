@@ -1,3 +1,4 @@
+#этот модуль не работает. Проблема в Шедле - он не запускается.
 import telebot
 from telebot import types
 import user
